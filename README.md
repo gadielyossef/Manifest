@@ -1,0 +1,2 @@
+# Manifest
+manisfest pipefy test
